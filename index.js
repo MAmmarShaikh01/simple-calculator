@@ -17,4 +17,4 @@ else if (answer.options === "*") {
 else if (answer.options === "/") {
     console.log(answer.firstNumber / answer.secondNumber);
 }
-// console.log(eval(answer.firstNumber + answer.options + answer.secondNumber));
+console.log("THE END");
